@@ -1,8 +1,8 @@
 # EECS 4314 Group Name: 
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Names | Student Number | Email |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Harsimran Saini |  215604960 | saini19@my.yorku.ca |
 | git diff     | git diff       | git diff      |
 
 | Names | Student Number | Email |
