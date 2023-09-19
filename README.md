@@ -3,7 +3,7 @@
 | Names | Student Number | Email |
 | :---         |     :---:      |          ---: |
 | Harsimran Saini |  215604960 | saini19@my.yorku.ca |
-| git diff     | git diff       | git diff      |
+
 
 | Names | Student Number | Email |
 | --- | --- |
