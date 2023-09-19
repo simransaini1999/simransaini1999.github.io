@@ -1,5 +1,10 @@
 # EECS 4314 Group Name: 
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 | Names | Student Number | Email |
 | --- | --- |
 | Harsimran Saini | | 215604960 | saini19@my.yorku.ca |
